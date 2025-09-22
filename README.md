@@ -1,5 +1,8 @@
 # 💻 Landing Page | Digital Mkt
+
 Uma landing page de agência digital fictícia, criada para apresentar serviços, equipe e informações de contato de forma moderna e responsiva. O projeto destaca-se pelo design impactante e por chamadas para ação estratégicas (call to action).
+
+👉 <b>Acesse aqui:</b> https://elisdevweb.github.io/landing-page-digital-mkt/
 
 ## ✨ Funcionalidades
 📌 Página inicial com destaque da agência<br>
