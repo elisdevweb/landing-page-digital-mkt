@@ -4,25 +4,25 @@ Uma landing page de agência digital fictícia, criada para apresentar serviços
 
 👉 <b>Acesse aqui:</b> https://elisdevweb.github.io/landing-page-digital-mkt/
 
-## ✨ Funcionalidades
-📌 Página inicial com destaque da agência<br>
-💼 Sessão de serviços oferecidos<br>
-👩‍💻 Sessão sobre<br>
-📱 Layout totalmente responsivo (desktop, tablet e mobile)<br>
-📧 Sessão de contato para clientes
+##  Funcionalidades
+- Página inicial com destaque da agência<br>
+- Sessão de serviços oferecidos<br>
+- Sessão sobre<br>
+- Layout totalmente responsivo (desktop, tablet e mobile)<br>
+- Sessão de contato para clientes
 
-## 🛠 Tecnologias Utilizadas
-HTML5 → Estrutura e semântica das páginas<br>
-CSS3 → Estilização e responsividade
+##  Tecnologias Utilizadas
+- HTML5 → Estrutura e semântica das páginas<br>
+- CSS3 → Estilização e responsividade
 
-## 📂 Estrutura do Projeto
+##  Estrutura do Projeto
 
 │── index.html        # Página principal<br>
 │── style.css         # Estilos globais<br>
 │── responsive.css    # Estilos responsivoss<br>
 │── /img              # Imagens do site<br>
 
-##  ▶️ Como executar o projeto
+##  Como executar o projeto
 
 1️⃣ Clone o repositório
 git clone https://github.com/elisdevweb/landing-page-digital-mkt.git
