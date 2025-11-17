@@ -1,8 +1,8 @@
 # Landing Page | Digital Mkt
 
-Uma landing page de agência digital fictícia, criada para apresentar serviços, equipe e informações de contato de forma moderna e responsiva. O projeto destaca-se pelo design impactante e por chamadas para ação estratégicas (call to action).
+Uma landing page de agência digital fictícia, criada para apresentar serviços, equipe e informações de contato de forma moderna e responsiva. O foco principal está no uso estratégico de call to action e layout otimizado para todas as telas.
 
-<b>Acesse aqui:</b> https://elisdevweb.github.io/landing-page-digital-mkt/
+<b>Acesse o projeto:</b> https://elisdevweb.github.io/landing-page-digital-mkt/
 
 ##  Funcionalidades
 - Página inicial com destaque da agência<br>
@@ -12,8 +12,8 @@ Uma landing page de agência digital fictícia, criada para apresentar serviços
 - Sessão de contato para clientes
 
 ##  Tecnologias Utilizadas
-- HTML5 → Estrutura e semântica das páginas<br>
-- CSS3 → Estilização e responsividade
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ##  Estrutura do Projeto
 
